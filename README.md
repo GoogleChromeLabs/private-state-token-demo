@@ -21,7 +21,7 @@ Note that it takes several minutes to download the code, install and build Borin
 ### Download the code
 
 ```sh
-git clone git@github.com:JackJey/private-state-token-demo.git
+git clone git@github.com:GoogleChromeLabs/private-state-token-demo.git
 ```
 
 All the commands below should be run from the top-level `private-state-token-demo` directory:
