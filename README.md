@@ -1,3 +1,9 @@
+<p><b>No longer maintained</b>.</p>
+
+<p>This Glitch-based demo is no longer supported or maintained. Please see the <a href="https://developer.chrome.com/docs/privacy-security/private-state-tokens">Private State Tokens documentation</a> on Chrome for Developers for current guidance.</p>
+
+<br>
+
 # Private State Token DEMO
 
 [Private State Token](https://wicg.github.io/trust-token-api/) The Private State Token API is a web platform API that allows propagating a limited amount of signals across sites, using the Privacy Pass protocol as an underlying primitive.
@@ -10,7 +16,7 @@ Find out more: [Private State Tokens | Chrome Developers](https://developer.chro
 
 This repo provides code to demonstrate Private State Token using [BoringSSL](https://boringssl.googlesource.com/boringssl/) to create an issuance service.
 
-You can try out this demo online at [private-state-token-demo.glitch.me](https://private-state-token-demo.glitch.me/) or download, build and run it yourself.
+You can download, build, and run this demo locally.
 
 ## Install and run this demo
 
